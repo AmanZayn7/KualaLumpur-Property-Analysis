@@ -97,7 +97,7 @@ Price (RM)
 
 Furnishing status
 
-🔎 Notes
+## Notes
 
 The project uses modular scripts for separation of concerns.
 
